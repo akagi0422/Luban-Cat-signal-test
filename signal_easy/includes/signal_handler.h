@@ -1,0 +1,1 @@
+void child_signal_handler(int sig);
